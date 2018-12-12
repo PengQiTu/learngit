@@ -1,5 +1,5 @@
 def myabs(c):
-    if c>=0:
+    if c>0:
         b=c
     else:
         b=-c
